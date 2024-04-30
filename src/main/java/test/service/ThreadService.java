@@ -1,4 +1,4 @@
-package service;
+package test.service;
 
 public class ThreadService {
 }
